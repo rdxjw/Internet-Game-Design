@@ -1,2 +1,1 @@
-# Internet-Game-Design
-CI328 Game Dev
+rdxjw1.github.io
